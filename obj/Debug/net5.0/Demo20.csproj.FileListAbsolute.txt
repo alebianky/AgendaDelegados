@@ -1,0 +1,16 @@
+D:\Curso C#\Demo20\bin\Debug\net5.0\Demo20.exe
+D:\Curso C#\Demo20\bin\Debug\net5.0\Demo20.deps.json
+D:\Curso C#\Demo20\bin\Debug\net5.0\Demo20.runtimeconfig.json
+D:\Curso C#\Demo20\bin\Debug\net5.0\Demo20.runtimeconfig.dev.json
+D:\Curso C#\Demo20\bin\Debug\net5.0\Demo20.dll
+D:\Curso C#\Demo20\bin\Debug\net5.0\ref\Demo20.dll
+D:\Curso C#\Demo20\bin\Debug\net5.0\Demo20.pdb
+D:\Curso C#\Demo20\obj\Debug\net5.0\Demo20.csprojAssemblyReference.cache
+D:\Curso C#\Demo20\obj\Debug\net5.0\Demo20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C#\Demo20\obj\Debug\net5.0\Demo20.AssemblyInfoInputs.cache
+D:\Curso C#\Demo20\obj\Debug\net5.0\Demo20.AssemblyInfo.cs
+D:\Curso C#\Demo20\obj\Debug\net5.0\Demo20.csproj.CoreCompileInputs.cache
+D:\Curso C#\Demo20\obj\Debug\net5.0\Demo20.dll
+D:\Curso C#\Demo20\obj\Debug\net5.0\ref\Demo20.dll
+D:\Curso C#\Demo20\obj\Debug\net5.0\Demo20.pdb
+D:\Curso C#\Demo20\obj\Debug\net5.0\Demo20.genruntimeconfig.cache
